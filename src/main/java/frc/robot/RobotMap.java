@@ -4,6 +4,8 @@ public class RobotMap {
 
     public interface CAN {
 
+        int SHOOTER_TALON_ID = 4;
+
     }
 
     public interface DIO {
